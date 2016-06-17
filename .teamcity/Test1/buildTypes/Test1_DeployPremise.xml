@@ -3,6 +3,10 @@
   <name>Deploy Premise</name>
   <description>Deploy Premise</description>
   <settings>
+    <options>
+      <option name="cleanBuild" value="true" />
+      <option name="showDependenciesChanges" value="true" />
+    </options>
     <parameters />
     <build-runners>
       <runner id="RUNNER_2" name="" type="MSBuild">
