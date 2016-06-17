@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vcs-root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" uuid="cdb185a5-ca74-4f87-b545-75612d899279" type="tfs" xsi:noNamespaceSchemaLocation="http://www.jetbrains.com/teamcity/schemas/9.0/project-config.xsd">
+  <name>tannguyen1_tfs</name>
+  <param name="secure:tfs-password" value="zxx5c812975823ffe26e87796e4cdbf1986" />
+  <param name="tfs-root" value="$/Test1/SharePointProject1" />
+  <param name="tfs-url" value="https://tannguyen1.visualstudio.com/" />
+  <param name="tfs-username" value="tannguyendev@outlook.com" />
+</vcs-root>
+
