@@ -36,7 +36,9 @@
     <vcs-settings>
       <vcs-entry-ref root-id="tannguyen1_tfs" />
     </vcs-settings>
-    <requirements />
+    <requirements>
+      <equals name="system.agent.name" value="sp" />
+    </requirements>
     <build-triggers />
     <cleanup />
   </settings>
