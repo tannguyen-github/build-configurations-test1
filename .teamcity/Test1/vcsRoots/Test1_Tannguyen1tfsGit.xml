@@ -9,7 +9,7 @@
   <param name="reportTagRevisions" value="true" />
   <param name="secure:password" value="zxx5c812975823ffe26e87796e4cdbf1986" />
   <param name="submoduleCheckout" value="CHECKOUT" />
-  <param name="url" value="https://tannguyen1.visualstudio.com/ProjTest1Git/ProjTest1Git%20Team/_git/ProjTest1Git" />
+  <param name="url" value="https://tannguyen1.visualstudio.com/_git/ProjTest1Git" />
   <param name="useAlternates" value="true" />
   <param name="username" value="tannguyendev@outlook.com" />
   <param name="usernameStyle" value="USERID" />
